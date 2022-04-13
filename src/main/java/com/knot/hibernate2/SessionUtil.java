@@ -11,7 +11,7 @@ import com.knot.hibernate.hibernatebasic.FileStats;
 
 public class SessionUtil {
 
-	
+	//session util
 	public static SessionFactory getSession() {
 		
 		
