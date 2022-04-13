@@ -29,7 +29,7 @@ import org.hibernate.annotations.FilterJoinTable;
 public class FileInfo {
 
 	
-	
+	//this is file info class
 	
 @Id
 @GeneratedValue(strategy=GenerationType.AUTO)
