@@ -22,7 +22,7 @@ public class HibernateDemo {
 		
 		Student st=new Student();
 		st.setName("ranganath");
-		st.setAge(26);
+		st.setAge(34);
 		
 		
 		subject sb1=new subject();
