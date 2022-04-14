@@ -8,7 +8,7 @@ public class Account implements Runnable {
 	{
 		amount=100;
 	}
-	
+	//account
 	
 	
 	synchronized void  setDeposit(int x) {
