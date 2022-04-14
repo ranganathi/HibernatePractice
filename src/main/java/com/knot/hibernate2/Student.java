@@ -31,7 +31,7 @@ public class Student  {
 	@OneToMany(mappedBy="stu",cascade=CascadeType.PERSIST)
 	private List<subject> subs =new ArrayList<>();
 
-	
+	//student
 	
 	
 	
